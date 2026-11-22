@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djsil.com/sitemap.xml
